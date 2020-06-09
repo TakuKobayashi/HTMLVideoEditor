@@ -7,5 +7,14 @@ yarn-error.log
 *.log
 
 # Build directory
-/public/
-/coverage/
+public/
+coverage/
+
+# package directories
+jspm_packages
+
+# Serverless directories
+.serverless
+
+# Webpack directories
+.webpack
